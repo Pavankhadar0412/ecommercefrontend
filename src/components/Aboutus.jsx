@@ -4,8 +4,9 @@ import { Link, Outlet } from "react-router-dom";
 
 const AboutUs = () => {
   return (
-    <div className="about-container">
-      <h2>About Our Electronic Store</h2>
+    <div className="about-container"> 
+      <h2>About Our vijayawada store</h2>
+      <h3>Bandaru Pavan khadar</h3>
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
